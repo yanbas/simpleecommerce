@@ -1,0 +1,7 @@
+database:
+  driver: postgres
+  hostname: localhost
+  port: 5432
+  username: yandi
+  password: password
+  schema: postgres
